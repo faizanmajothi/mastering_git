@@ -1,3 +1,3 @@
-## Hello world 
+## Hello world
 
-- This currect world.
+- This is my first git project.
